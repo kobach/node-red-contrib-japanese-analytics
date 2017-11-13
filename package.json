@@ -1,0 +1,31 @@
+{
+  "name": "red-contrib-textanalytics-ja",
+  "version": "1.0.0",
+  "description": "node-red to analytics Japanese with Microsoft Cognitive Service API",
+  "dependencies": {
+    "request": "^2.83.0",
+    "node-red-node-pushbullet":"0.x"
+  },
+  "main": "node.js",
+  "node-red": {
+    "nodes": {
+      "text-analytics-jp": "cognitive-services/node.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobach/node-red-contrib-textanalytics-ja.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "kobach",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kobach/node-red-contrib-textanalytics-ja/issues"
+  },
+  "homepage": "https://github.com/kobach/node-red-contrib-textanalytics-ja#readme"
+}

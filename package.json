@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-textanalytics-ja",
+  "name": "node-red-contrib-textanalytics-ja",
   "version": "1.0.0",
   "description": "node-red to analytics Japanese with Microsoft Cognitive Service API",
   "dependencies": {

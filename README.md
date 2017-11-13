@@ -1,4 +1,4 @@
-#node-red-contrib-ms-cs-textanalytics-ja
+#node-red-contrib-japanese-analytics
 ===================================
 
 Node-RED nodes for Text Analytics API in Microsoft Cognitive Services APIs 
@@ -14,17 +14,15 @@ Text Analytics API　also support Japanese.
 Run the following npm command in your Node-RED environment.
 ```
 cd ~/.node-red
-npm install -g node-red-contrib-ms-cs-textanalytics-ja
+npm install -g node-red-contrib-japanese-analytics
 ```
 
-# Usage
+## Usage
 To use the node, launch Node-RED (see running Node-RED for help getting started).
 
 Show node property and input subscription key from Azure portal.
 
-#Revision History
-- 1.0.3 
-	- Change README.md
+##Revision History
 - 1.0.0 
 	- Initial release
 

@@ -1,10 +1,10 @@
 {
-  "name": "node-red-contrib-textanalytics-ja",
-  "version": "1.0.1",
+  "name": "node-contrib-textanalytics-ja",
+  "version": "1.0.2",
   "description": "node-red to analytics Japanese with Microsoft Cognitive Service API",
   "dependencies": {
     "request": "^2.83.0",
-    "node-red-node-pushbullet":"0.x"
+    "node-red-node-pushbullet": "0.x"
   },
   "main": "node.js",
   "node-red": {

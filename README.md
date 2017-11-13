@@ -1,4 +1,4 @@
-#node-red-contrib-nihongo-analytics
+#node-red-contrib-ms-cs-textanalytics-ja
 ===================================
 
 Node-RED nodes for Text Analytics API in Microsoft Cognitive Services APIs 
@@ -14,7 +14,7 @@ Text Analytics API　also support Japanese.
 Run the following npm command in your Node-RED environment.
 ```
 cd ~/.node-red
-npm install -g node-red-contrib-textanalytics-ja
+npm install -g node-red-contrib-ms-cs-textanalytics-ja
 ```
 
 # Usage

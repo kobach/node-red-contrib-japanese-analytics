@@ -23,6 +23,8 @@ To use the node, launch Node-RED (see running Node-RED for help getting started)
 Show node property and input subscription key from Azure portal.
 
 ##Revision History
+- 1.0.1 ~ 1.0.3
+	- Change README.md
 - 1.0.0 
 	- Initial release
 
